@@ -1,4 +1,4 @@
-> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career! 
+> *[Join our community](https://metadevelopment.io/)* for professional Software Developers and get more control over your life and career!
 
 ----
 
@@ -139,7 +139,7 @@ But knowing the stuff will help you become better! :muscle:*
 
 ### Career
 - :moneybag: [Levels FYI](https://www.levels.fyi)  
-  Salary stats for various tech companies. Better than Glassdoor. 
+  Salary stats for various tech companies. Better than Glassdoor.
 - :page_facing_up: [10 Things Every Programmer Should Know For Their First Job](http://www.applematters.com/article/10-things-every-programmer-should-know-for-their-first-job/)
 - :page_facing_up: [How Much Do Software Engineers Really Make in Each City?](https://www.codementor.io/blog/best-cities-software-engineer-earnings-271vpf599k)
 - :page_facing_up: [Software Engineers Tenure in San Francisco](https://hackerlife.co/blog/san-francisco-large-corporation-employee-tenure)
@@ -162,11 +162,12 @@ But knowing the stuff will help you become better! :muscle:*
 - :page_facing_up: [What you should know as a founder of a software company](https://qotoqot.com/blog/founder-skills/)
 - :movie_camera: [Code Interview Prep & Programming Questions | Pramp](https://www.pramp.com/)
 
-###  Fine-tune Your Resume 
+###  Fine-tune Your Resume
 - :hammer: [CV Compiler](https://cvcompiler.com/)
 
 ### Open Source
 - :globe_with_meridians: [Learn how to use Git and GitHub](https://www.deployhq.com/git)
+- :globe_with_meridians: [How to contribute to opensource projects](https://opensource.guide/how-to-contribute/)
 
 ### Remote Work
 - :globe_with_meridians: [Remotive.io: Startups hiring remotely](https://docs.google.com/spreadsheets/d/1TLJSlNxCbwRNxy14Toe1PYwbCTY7h0CNHeer9J0VRzE/htmlview?sle=true#gid=1279011369)
